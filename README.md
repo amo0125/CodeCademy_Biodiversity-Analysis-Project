@@ -1,4 +1,4 @@
-# CodeCademy_Biodiversity-Analysis-Project
+# CodeCademy_Biodiversity_Analysis_Project
 
   <h2>Introduction</h2>
   <p>This project analyzes biodiversity data from the National Parks Service, specifically focusing on various species observed in different national park locations. The main goal of the project is to scope, analyze, prepare, and plot the data to explain the findings. The project seeks to answer the following key questions:</p>
